@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.3d2e78f8de9f876170029017d0503c13.js"
+  "/precache-manifest.cbbceb457edb232b1f17d859b4fdd122.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "web-app-ble-version1"});
+workbox.core.setCacheNameDetails({prefix: "web-meeting-room"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
