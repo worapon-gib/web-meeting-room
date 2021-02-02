@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.18475e2ad06c3227e5704b32298b72a0.js"
+  "/precache-manifest.4126c2e115b3dbd1f098ef19498aefc5.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "web-meeting-room"});
