@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.ee1a95004ced05c20250320556fd5db6.js"
+  "/precache-manifest.99e452a37641d452c46d94fd6f10f246.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue-meeting"});
